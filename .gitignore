@@ -1,8 +1,5 @@
 *_old
 *_backup
-tmp/
-img/
-js/
-css/
+Thumbs.db
 *.DS_Store
-index.html
+tmp/
